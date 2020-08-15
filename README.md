@@ -35,3 +35,8 @@ Regards,
 
 ## Back Up Data
 Link : https://drive.google.com/drive/folders/1PLwhVRdMS1vS-OcVBBkqHHor88r25BQ4?usp=sharing
+
+## How to use 
+Option
+1) Use my shared Google Colab Notebook (Recommended) : https://colab.research.google.com/drive/19N5_5rmOaY3XIQvA0ToqKjVshXsnb0hd#scrollTo=HfgIg4rAeYxr
+2) Download source and run on your local machine
